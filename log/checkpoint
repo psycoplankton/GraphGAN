@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/student/Vansh/GraphGAN/log/FFmodel.checkpoint"
+all_model_checkpoint_paths: "/home/student/Vansh/GraphGAN/log/FFmodel.checkpoint"
